@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "Vampirismo",
-                afirmacao: "Vossa merce almeja apossar-se da pelvis do ser denominado Dio Brando"
+                afirmacao: "Vossa merce almeja apossar-se da pelvis do ser denominado Dio Brando."
             }
         ]
     },
@@ -53,7 +53,7 @@ const perguntas = [
             },
             {
                 texto: "Johnny.",
-                afirmacao: "Cadeirante cristão que tem uma geladeira rosa que atira unha"
+                afirmacao: "Cadeirante cristão que tem uma geladeira rosa que atira unha."
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Made in heaven.",
-                afirmacao: "Cavalo reset"
+                afirmacao: "Cavalo reset."
             },
             {
-                texto: "Gold experience requiem",
-                afirmacao: "Reset "
+                texto: "Gold experience requiem.",
+                afirmacao: "Reset."
             }
         ]
     },
