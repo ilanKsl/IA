@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "Tip Trick",
-                afirmacao: "Tu gosta de encher o saco né fi."
+                afirmacao: "Tu gosta de encher o saco dos outro."
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Hamon",
-                afirmacao: "Quer tirar uma Thompson do rabo né?"
+                afirmacao: "Quer deitar vampiro no soco!"
             },
             {
                 texto: "Vampirismo",
-                afirmacao: "Tu sentava muito no dio que eu sei."
+                afirmacao: "Vossa merce almeja apossar-se da pelvis do ser denominado Dio Brando"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Jotaro.",
-                afirmacao: "Esse maluco não tem 17 ma nem fudendo."
+                afirmacao: "Marrento, xinga a mãe e é um ármario autista que gosta de golfinho."
             },
             {
                 texto: "Johnny.",
-                afirmacao: "Cadeirante cristão fodase"
+                afirmacao: "Cadeirante cristão que tem uma geladeira rosa que atira unha"
             }
         ]
     },
@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Sobre você...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
